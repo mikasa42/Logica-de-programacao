@@ -35,17 +35,22 @@ footer {
     color:rgb(16, 46, 145)
 
 }
-.imagem1{
-    width: 20%;
-    height: auto;
-    margin-top:5px;
+.imagem1 {
+    width : 20% ;
+    height : auto;
+    margin-top: 5px ;
 
 }
-.imagem2{
-    width: 10%;
+.imagem2 {
+    width : 10% ;
     height: auto;
-    margin-top:5px;
+    margin-top: 5px;
 }
+#imagem{
+    background-color: #b76f4f;
+
+}
+
 .icon{
     width: 20px;
     height: 20px;
